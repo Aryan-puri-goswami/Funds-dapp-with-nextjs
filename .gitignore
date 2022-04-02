@@ -1,3 +1,4 @@
+.gitignore
 indexjs.txt
 yarn.lock
 /node_modules
